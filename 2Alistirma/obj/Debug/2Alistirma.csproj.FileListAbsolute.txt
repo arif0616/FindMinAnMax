@@ -1,0 +1,6 @@
+C:\Users\CEM\source\repos\2Alistirma\2Alistirma\bin\Debug\2Alistirma.exe.config
+C:\Users\CEM\source\repos\2Alistirma\2Alistirma\bin\Debug\2Alistirma.exe
+C:\Users\CEM\source\repos\2Alistirma\2Alistirma\bin\Debug\2Alistirma.pdb
+C:\Users\CEM\source\repos\2Alistirma\2Alistirma\obj\Debug\2Alistirma.csprojAssemblyReference.cache
+C:\Users\CEM\source\repos\2Alistirma\2Alistirma\obj\Debug\2Alistirma.exe
+C:\Users\CEM\source\repos\2Alistirma\2Alistirma\obj\Debug\2Alistirma.pdb
